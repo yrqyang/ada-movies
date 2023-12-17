@@ -3,4 +3,7 @@ title: What makes movies successful
 description: A comprehensive analysis to discover the general patterns in locations and their influences on the success of movies, and how a movie stands out as an Oscar prize winner. 
 show_downloads: True
 navigation:
-
+  - title: Home
+    url: /
+  - title: Example
+    url: example
